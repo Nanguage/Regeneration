@@ -1,5 +1,9 @@
 aicsimageio
 numpy
+scipy
 matplotlib
 scikit-learn
 scikit-image
+pytorch
+torchvision
+umap-learn
